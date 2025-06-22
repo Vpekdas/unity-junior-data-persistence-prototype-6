@@ -1,9 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.Mathematics;
-using UnityEditor.Build.Content;
-using UnityEngine;
-
 /// <summary>
 /// Subclass of Unit that will increase production of a Resource Pile.
 /// </summary>
