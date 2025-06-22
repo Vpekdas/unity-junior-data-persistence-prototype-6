@@ -57,9 +57,9 @@ One of the biggest challenges in this project was understanding what I was suppo
 
 We were then asked to implement features that we had never encountered before. In previous prototypes, these kinds of tasks were presented as optional “bonus features,” but here they were part of the main objectives which made it more challenging but also more rewarding.
 
-I also had to learn how to use Unity’s Animator, which was new territory for me. My experience with animation comes mostly from JavaScript and CSS, where I’m fairly confident. Trying to achieve similar effects in Unity was a bit of a struggle at first—but a valuable one!
+I also had to learn how to use Unity’s Animator, which was new territory for me. My experience with animation comes mostly from JavaScript and CSS, where I’m fairly confident. Trying to achieve similar effects in Unity was a bit of a struggle at first but a valuable one!
 
-At the end of the project, I compared my solution to the official tutorial version and was pleasantly surprised to see that our approaches were different—but both worked! This helped me learn multiple ways to solve the same problem and discover new Unity features and scripting techniques.
+At the end of the project, I compared my solution to the official tutorial version and was pleasantly surprised to see that our approaches were different but both worked! This helped me learn multiple ways to solve the same problem and discover new Unity features and scripting techniques.
 
 ## Installation
 
